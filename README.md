@@ -43,7 +43,7 @@ An interactive Business Intelligence dashboard developed using Microsoft Power B
 - Furniture contributes 19.44%.
 - New York City is the highest-performing city by sales.
 
-## Dashboard Screenshot
+## Dashboard 
 
 <img width="977" height="549" alt="Screenshot 2026-11-19 143052" src="https://github.com/user-attachments/assets/7b84d8eb-88e6-489a-9bc9-f6f0ce40cf7f" />
 
